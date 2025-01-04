@@ -1,0 +1,17 @@
+# GUI相关
+tkinter  # 通常内置在Python中，不需要单独安装
+
+# 数据处理
+pandas>=1.3.0
+openpyxl>=3.0.0  # Excel文件支持
+sqlite3  # 内置在Python中，不需要单独安装
+
+# 打包工具
+pyinstaller>=5.0.0
+
+# 日期处理
+datetime  # 内置在Python中，不需要单独安装
+
+# 系统相关
+sys  # 内置在Python中，不需要单独安装
+os   # 内置在Python中，不需要单独安装 
