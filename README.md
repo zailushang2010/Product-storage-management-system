@@ -13,9 +13,9 @@
 
 本系统是一个产品库存管理系统,主要用于管理产品信息和库存变动。系统分为两个主要模块:产品管理和库存管理。
 
-![loadingag339](/E:\product-management-system/\docs\images\产品管理.jpg)
+![loadingag339](\docs\images\产品管理.jpg)                      
 
-![loadingag342](/E:\product-management-system/\docs/images/库存变动.jpg)
+![loadingag342](\docs/images/库存变动.jpg)        
 
 ### 用户角色
 
