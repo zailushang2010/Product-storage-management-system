@@ -15,7 +15,7 @@
 
 ![产品管理界面](docs/images/产品管理.jpg)                           
 
-![产品管理界面](docs/images/产品管理.jpg)              
+![产品管理界面](docs/images/库存变动.jpg)              
 
 ### 用户角色
 
